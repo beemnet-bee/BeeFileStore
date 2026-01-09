@@ -1,0 +1,8 @@
+{
+  "name": "Bee File Store",
+  "description": "A buzzing, high-performance file storage solution with permanent browser storage, AI-powered file insights, and a delightful honeycomb aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
